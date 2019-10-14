@@ -1,1 +1,1 @@
-# express-server-side-auth
+# server-side-auth
